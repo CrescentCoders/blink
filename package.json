@@ -95,7 +95,7 @@
     "ajv-cli": "^5.0.0",
     "clarify": "^2.1.0",
     "dayjs": "^1.10.7",
-    "history": "^4.10.1",
+    "history": "^5.0.0",
     "husky": "^4.3.8",
     "jest-fetch-mock": "^3.0.3",
     "jest-junit": "^13.0.0",
